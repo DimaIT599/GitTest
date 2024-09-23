@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/edemsk/projects/gittest/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/myproject.dir/main.cpp.o -c /home/edemsk/projects/gittest/project/main.cpp",
+  "file": "/home/edemsk/projects/gittest/project/main.cpp",
+  "output": "CMakeFiles/myproject.dir/main.cpp.o"
+}
+]

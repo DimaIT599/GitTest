@@ -1,0 +1,3 @@
+/home/edemsk/projects/gittest/build/CMakeFiles/myproject.dir
+/home/edemsk/projects/gittest/build/CMakeFiles/edit_cache.dir
+/home/edemsk/projects/gittest/build/CMakeFiles/rebuild_cache.dir
